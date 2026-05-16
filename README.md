@@ -4,7 +4,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%3E_%20Transformando+ideias+em+c%C3%B3digo+do+futuro;%3E_%20Building+the+impossible%2C+one+commit+at+a+time;%3E_%20BRCODE+Solutions+%7C+Innovation+Unlocked+%F0%9F%94%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&random=false&width=650&height=60&lines=%3E_%20Transformando+ideias+em+c%C3%B3digo+do+futuro;%3E_%20Building+the+impossible%2C+one+commit+at+a+time;%3E_%20brcode+solutions+%7C+Innovation+Unlocked+%F0%9F%94%93" alt="Typing SVG" />
 </a>
 
 <br/>
