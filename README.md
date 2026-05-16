@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,10:161B22,30:00D9FF,50:BD00FF,70:00D9FF,90:161B22,100:0D1117&height=220&section=header&text=Leonardo%20Henrique%20Santos&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20🧠%20Systems%20Architect%20|%20⚡%20Tech%20Innovator&descSize=16&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,10:161B22,30:00D9FF,50:BD00FF,70:00D9FF,90:161B22,100:0D1117&height=220&section=header&text=Leonardo%20Henrique%20Santos&fontSize=36&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20🧠%20Systems%20Architect%20|%20⚡%20Tech%20Innovator&descSize=16&descAlignY=55&descAlign=50&descColor=000000" />
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 ```yaml
 name: Leonardo Henrique Santos
 located_in: Brazil 🇧🇷
-company: BRCODE Solutions
+company: brcode solutions
 education:
   - Análise de Sistemas (FANAP)
   - Engenharia da Computação (UNIP-GO)
@@ -38,9 +38,9 @@ current_focus:
   - Cloud Infrastructure
 
 fun_facts:
-  - "Código bom é código que funciona... e que é bonito 🎨"
   - "Café ☕ é meu compilador"
-  - "Debugar é como ser detetive 🕵️"
+  - "Bug? Eu chamo de feature 🐛"
+  - "Ctrl+Z é meu melhor amigo 🔄"
 ```
 
 <br clear="both"/>
@@ -81,12 +81,12 @@ fun_facts:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LHenriqueSantos&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=BD00FF&border_color=161B22&hide_border=false&ring_color=00D9FF&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LHenriqueSantos&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=BD00FF&border_color=161B22&hide_border=false&ring_color=00D9FF&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LHenriqueSantos&theme=transparent&background=0D1117&ring=00D9FF&fire=BD00FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&sideNums=00D9FF&currStreakNum=FFFFFF&dates=555555&border=161B22" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHenriqueSantos&layout=compact&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=161B22&hide_border=false&langs_count=8" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LHenriqueSantos&layout=compact&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=161B22&hide_border=false&langs_count=8" />
 
 </div>
 
@@ -97,9 +97,9 @@ fun_facts:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LHenriqueSantos/LHenriqueSantos/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LHenriqueSantos/LHenriqueSantos/blob/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://github.com/LHenriqueSantos/LHenriqueSantos/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LHenriqueSantos/LHenriqueSantos/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LHenriqueSantos/LHenriqueSantos/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/LHenriqueSantos/LHenriqueSantos/output/github-snake-dark.svg" />
 </picture>
 
 </div>
