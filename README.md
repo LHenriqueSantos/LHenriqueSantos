@@ -19,7 +19,7 @@
 
 ---
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/rodrigograudo/rodrigograudo/77b738fc0e1f93e3f6c63d6d93e1953a1b731da4/assets/developer.gif" alt="Coding GIF" />
+<img align="right" width="400" src="./assets/developer.png" alt="Futuristic Developer" />
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;Sobre Mim
 
@@ -143,7 +143,7 @@ fun_facts:
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   "O código é poesia. A arquitetura é a sinfonia."          ║
+║   "O código é poesia. A arquitetura é a sinfonia."           ║
 ║                                    — Leonardo H. Santos      ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
