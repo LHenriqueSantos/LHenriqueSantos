@@ -19,7 +19,7 @@
 
 ---
 
-<img align="right" width="400" src="./assets/developer.png?v=2" alt="Futuristic Developer" />
+<img align="right" width="400" src="./assets/dev-hero.png" alt="Futuristic Developer" />
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;Sobre Mim
 
