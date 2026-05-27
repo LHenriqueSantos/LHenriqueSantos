@@ -42,8 +42,8 @@ current_focus:
 
 fun_facts:
   - "Coca 🥤 é meu compilador"
-  - "Bug? Eu chamo de feature 🐛"
-  - "Ctrl+Z é meu melhor amigo 🔄"
+  - "Bugs? Inaceitáveis no meu código 🚫"
+  - "Foco absoluto em Segurança Militar 🔒"
 ```
 
 <br clear="both"/>
