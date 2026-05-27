@@ -71,10 +71,9 @@ fun_facts:
 
 ### 🗄️ Bancos de Dados
 
-<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark&perline=5" />
-<br/>
-<img src="https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
-<img src="https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000" />
+<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" style="margin-left: 8px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" style="margin-left: 8px" />
 
 <br/><br/>
 
