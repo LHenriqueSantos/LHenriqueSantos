@@ -51,27 +51,38 @@ fun_facts:
 
 <div align="center">
 
-### 🔥 Linguagens & Frameworks
+### 🔥 Linguagens
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,html,css,bash&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,html,css,bash,c,cpp,cs&theme=dark&perline=10" />
 
 <br/><br/>
 
 ### ⚡ Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=nextjs,astro,react,flutter,fastapi,nodejs,tailwind&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=nextjs,astro,react,flutter,fastapi,nodejs,tailwind,flask,django&theme=dark&perline=9" />
 
 <br/><br/>
 
 ### 🛠️ DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,postgres,redis,git,github&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,kubernetes&theme=dark&perline=6" />
+
+<br/><br/>
+
+### 🗄️ Bancos de Dados
+
+<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark&perline=5" />
+<br/>
+<img src="https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
+<img src="https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000" />
 
 <br/><br/>
 
 ### ☁️ Cloud & Infra
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,cloudflare,supabase,firebase,grafana&theme=dark&perline=7" />
+<br/>
+<img src="https://img.shields.io/badge/DigitalOcean-0D1117?style=for-the-badge&logo=digitalocean&logoColor=0080FF" />
 
 </div>
 
