@@ -31,7 +31,7 @@ education:
   - Análise de Sistemas (FANAP)
   - Engenharia da Computação (UNIP-GO)
   - Mestrado Profissional em Engenharia Industrial e Inteligência Artificial (PUC Goiás)
-  - Mestrado Profissional em Engenharia Industrial e Inteligência Artificial (ORACLE)
+  - Ciência de Dados e Big Data Análise massiva de dados, Business Intelligence e Data Analyticsl (ORACLE)
   - Doutorado em Inteligência Artificial Inspirada no Ser Humano (UNIVERSITY OF CAMBRIDGE) JUN/2026
 
 current_focus:
