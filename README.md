@@ -30,6 +30,9 @@ company: brcode solutions
 education:
   - Análise de Sistemas (FANAP)
   - Engenharia da Computação (UNIP-GO)
+  - Mestrado Profissional em Engenharia Industrial e Inteligência Artificial (PUC Goiás)
+  - Mestrado Profissional em Engenharia Industrial e Inteligência Artificial (ORACLE)
+  - Doutorado em Inteligência Artificial Inspirada no Ser Humano (UNIVERSITY OF CAMBRIDGE) JUN/2026
 
 current_focus:
   - Full Stack Development
@@ -38,7 +41,7 @@ current_focus:
   - Cloud Infrastructure
 
 fun_facts:
-  - "Café ☕ é meu compilador"
+  - "Coca 🥤 é meu compilador"
   - "Bug? Eu chamo de feature 🐛"
   - "Ctrl+Z é meu melhor amigo 🔄"
 ```
