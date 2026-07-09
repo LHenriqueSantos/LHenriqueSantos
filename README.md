@@ -83,6 +83,19 @@ fun_facts:
 
 <br/><br/>
 
+### 🎮 Game Development
+
+<img src="https://skillicons.dev/icons?i=unity,godot&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="48" style="margin-left: 8px" />
+
+<br/><br/>
+
+### 📱 Mobile & Desktop
+
+<img src="https://skillicons.dev/icons?i=android,apple&theme=dark" />
+
+<br/><br/>
+
 ### ☁️ Cloud & Infra
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,cloudflare,supabase,firebase,grafana&theme=dark&perline=7" />
@@ -141,8 +154,10 @@ fun_facts:
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LHenriqueSantos&bg_color=0D1117&color=00D9FF&line=BD00FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&custom_title=📊%20Contribution%20Graph" />
+<!-- GitHub Trophies -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=LHenriqueSantos&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="LHenriqueSantos Trophies" />
+</a>
 
 </div>
 
