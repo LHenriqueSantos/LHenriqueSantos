@@ -92,7 +92,8 @@ fun_facts:
 
 ### 📱 Mobile & Desktop
 
-<img src="https://skillicons.dev/icons?i=android,apple&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="48" />
+<img src="https://skillicons.dev/icons?i=apple&theme=dark" style="margin-left: 8px" />
 
 <br/><br/>
 
@@ -111,7 +112,7 @@ fun_facts:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LHenriqueSantos&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=BD00FF&border_color=161B22&hide_border=false&ring_color=00D9FF&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LHenriqueSantos&theme=transparent&background=0D1117&ring=00D9FF&fire=BD00FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&sideNums=00D9FF&currStreakNum=FFFFFF&dates=555555&border=161B22" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=LHenriqueSantos&theme=transparent&background=0D1117&ring=00D9FF&fire=BD00FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&sideNums=00D9FF&currStreakNum=FFFFFF&dates=555555&border=161B22" />
 
 <br/><br/>
 
@@ -154,10 +155,8 @@ fun_facts:
 
 <br/><br/>
 
-<!-- GitHub Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=LHenriqueSantos&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="LHenriqueSantos Trophies" />
-</a>
+<!-- GitHub Commits Graph -->
+<img width="100%" src="https://ghchart.rshah.org/00D9FF/LHenriqueSantos" alt="LHenriqueSantos Commits Graph" />
 
 </div>
 
