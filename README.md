@@ -112,7 +112,7 @@ fun_facts:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LHenriqueSantos&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=BD00FF&border_color=161B22&hide_border=false&ring_color=00D9FF&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=LHenriqueSantos&layout=compact&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=161B22&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=LHenriqueSantos&layout=compact&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=161B22&hide_border=false" />
 
 </div>
 
